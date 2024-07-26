@@ -13,3 +13,10 @@ int main()
     avg = s/2;
     cout << "Average: "<<avg;
 }
+
+/*
+Output:
+Enter first number: 59
+Enter second number: 76
+Average: 67
+*/
