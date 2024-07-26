@@ -16,3 +16,8 @@ int main()
     }
     return 0;
 }
+/*
+Output:
+Enter a number: 57
+It is an odd number. 
+*/
