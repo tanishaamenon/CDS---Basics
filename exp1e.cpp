@@ -16,3 +16,9 @@ int main()
     }
     return 0;
 }
+
+/*
+Output:
+Enter a year: 1800
+It is not a leap year. 
+*/
