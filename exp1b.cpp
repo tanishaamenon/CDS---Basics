@@ -12,3 +12,10 @@ int main()
     cout << "Sum: "<<s;
     return 0;
 }
+
+/*
+Output:
+Enter first number: 35
+Enter second number: 56
+Sum: 91
+*/
