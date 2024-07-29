@@ -101,11 +101,23 @@ int main()<br>
 <br>
 **Outputs:** <br>
 a.<br>
-![exp1 output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1a.JPG)
+![exp1a output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1a.JPG)
+<br>
+b.<br>
+![exp1b output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1b.JPG)
+<br>
+c.<br>
+![exp1c output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1c.JPG)
+<br>
+d.<br>
+![exp1d output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1d.JPG)
+<br>
+e.<br>
+![exp1e output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1e.JPG)
 <br>
 **Conclusion:** <br>
 &#8594; We learnt basics of C++. <br>
 &#8594; We learnt how to perform basic operations on C++. <br>
 <br>
-
+*******
 
