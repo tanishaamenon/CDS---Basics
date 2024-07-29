@@ -99,6 +99,10 @@ int main()<br>
     return 0;<br>
 }<br>*
 <br>
+**Outputs:** <br>
+a.<br>
+![alt text](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1a.jpg?raw=true)
+<br>
 **Conclusion:** <br>
 &#8594; We learnt basics of C++. <br>
 &#8594; We learnt how to perform basic operations on C++. <br>
