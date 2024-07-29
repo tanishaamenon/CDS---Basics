@@ -101,7 +101,7 @@ int main()<br>
 <br>
 **Outputs:** <br>
 a.<br>
-![alt text](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1a.jpg?raw=true)
+![exp1 output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1a.JPG)
 <br>
 **Conclusion:** <br>
 &#8594; We learnt basics of C++. <br>
