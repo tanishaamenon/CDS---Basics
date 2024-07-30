@@ -17,89 +17,96 @@ Standard libraries in C++ are crucial because they contain needed functions and 
 **Code:** <br>
 a.<br> 
 ```
-*#include <iostream> <br>
-using namespace std; <br>
-<br>
-int main() <br>
-{<br>
-    cout<<"Hello World";<br>
-    return 0;<br>
-}<br>*
+*#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout<<"Hello World";
+    return 0;
+}
 ```
 <br>
 b.<br>
-*#include <iostream><br>
-using namespace std;<br>
-<br>
-int main()<br>
-{<br>
-    int a,b,s = 0;<br>
-    cout << "Enter first number: ";<br>
-    cin >> a;<br>
-    cout << "Enter second number: ";<br>
-    cin >> b;<br>
-    s = a + b;<br>
-    cout << "Sum: "<<s;<br>
-    return 0;<br>
-}<br>*
+```
+#include <iostream>
+using namespace std;
+
+int main()
+    int a,b,s = 0;
+    cout << "Enter first number: ";
+    cin >> a;
+    cout << "Enter second number: ";
+    cin >> b;
+    s = a + b;
+    cout << "Sum: "<<s;
+    return 0;
+}
+```
 <br>
 c. <br>
-*#include <iostream><br>
-using namespace std; <br>
-<br>
-int main()<br>
-{<br>
-    int a,b,s;<br>
-    float avg;<br>
-    cout << "Enter first number: ";<br>
-    cin >> a;<br>
-    cout << "Enter second number: ";<br>
-    cin >> b;<br>
-    s = a + b;<br>
-    avg = s/2;<br>
-    cout << "Average: "<<avg;<br>
-    <br>
-}<br>*
+```
+*#include <iostream> 
+using namespace std;  
+ 
+int main() 
+{ 
+    int a,b,s; 
+    float avg; 
+    cout << "Enter first number: "; 
+    cin >> a; 
+    cout << "Enter second number: "; 
+    cin >> b; 
+    s = a + b; 
+    avg = s/2; 
+    cout << "Average: "<<avg; 
+     
+} *
+```
 <br>
 d.<br>
-*#include <iostream><br>
-using namespace std;<br>
-<br>
-int main()<br>
-{<br>
-    int a;<br>
-    cout << "Enter a number: ";<br>
-    cin >>a;<br>
-    if (a % 2 == 0)<br>
-    {<br>
-        cout << "It is an even number. ";<br>
-    }<br>
-    else<br>
-    {<br>
-        cout << "It is an odd number. ";<br>
-    }<br>
-    return 0;<br>*
-}<br>
+```
+*#include <iostream> 
+using namespace std; 
+ 
+int main() 
+{ 
+    int a; 
+    cout << "Enter a number: "; 
+    cin >>a; 
+    if (a % 2 == 0) 
+    { 
+        cout << "It is an even number. "; 
+    } 
+    else 
+    { 
+        cout << "It is an odd number. ";
+    }
+    return 0;
+}
+```
 <br>
 e.<br>
-*#include <iostream><br>
-using namespace std;<br>
+```
+*#include <iostream>
+using namespace std;
 <br>
-int main()<br>
-{<br>
-    int y;<br>
-    cout << "Enter a year: ";<br>
-    cin >>y;<br>
-    if (y % 400 == 0 or y % 4 == 0 and y % 100 != 0)<br>
-    {<br>
-        cout << "It is a leap year. ";<br>
-    }<br>
-    else<br>
-    {<br>
-        cout << "It is not a leap year. ";<br>
-    }<br>
-    return 0;<br>
-}<br>*
+int main()
+{
+    int y;
+    cout << "Enter a year: ";
+    cin >>y;
+    if (y % 400 == 0 or y % 4 == 0 and y % 100 != 0)
+    {
+        cout << "It is a leap year. ";
+    }
+    else
+    {
+        cout << "It is not a leap year. ";
+    }
+    return 0;
+}
+```
 <br>
 **Outputs:** <br>
 a.<br>
