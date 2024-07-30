@@ -1,6 +1,6 @@
 # Experiment - 1
 **Aim:** <br>
-Expt 1	Downloading and Installing VS Code, (Hello World and Calculator program)<br>
+Downloading and Installing VS Code, (Hello World and Calculator program)<br>
 <br>
 **Objectives:** <br>
 a. To display 'Hello World'.<br>
