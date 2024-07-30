@@ -17,7 +17,7 @@ Standard libraries in C++ are crucial because they contain needed functions and 
 **Code:** <br>
 a.<br> 
 ```
-*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -31,7 +31,7 @@ int main()
 b.<br>
 
 ```
-*#include <iostream>
+#include <iostream>
 using namespace std;
 
 int main()
@@ -48,8 +48,9 @@ int main()
 
 <br>
 c. <br>
+
 ```
-*#include <iostream> 
+#include <iostream> 
 using namespace std;  
  
 int main() 
@@ -64,12 +65,14 @@ int main()
     avg = s/2; 
     cout << "Average: "<<avg; 
      
-} *
+}
 ```
+
 <br>
 d.<br>
+
 ```
-*#include <iostream> 
+#include <iostream> 
 using namespace std; 
  
 int main() 
@@ -88,10 +91,12 @@ int main()
     return 0;
 }
 ```
+
 <br>
 e.<br>
+
 ```
-*#include <iostream>
+#include <iostream>
 using namespace std;
 <br>
 int main()
@@ -110,6 +115,7 @@ int main()
     return 0;
 }
 ```
+
 <br>
 **Outputs:** <br>
 a.<br>
