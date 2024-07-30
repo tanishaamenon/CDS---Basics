@@ -117,6 +117,7 @@ int main()
 ```
 
 <br>
+
 **Outputs:** <br>
 a.<br>
 ![exp1a output](https://github.com/tanishaamenon/CDS---Basics/blob/main/exp1a.JPG)
