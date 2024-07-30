@@ -27,7 +27,9 @@ int main()
 }
 ```
 <br>
+
 b.<br>
+
 ```
 *#include <iostream>
 using namespace std;
@@ -42,7 +44,7 @@ int main()
     cout << "Sum: "<<s;
     return 0;
 }
-``````
+```
 
 <br>
 c. <br>
