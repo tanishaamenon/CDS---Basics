@@ -16,16 +16,16 @@ Standard libraries in C++ are crucial because they contain needed functions and 
 <br>
 **Code:** <br>
 a.<br> 
-
-*#include <iostream>
+```
+#include <iostream>
 using namespace std;
 
 int main()
 {
     cout<<"Hello World";
     return 0;
-}*
-
+}
+```
 <br>
 
 b.<br>
